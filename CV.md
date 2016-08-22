@@ -1,7 +1,8 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Resume
+permalink: /Resume/
 ---
 
-Please find a copy of my CV [here](https://drive.google.com/file/d/0B6ccBhFYyO74cUVpbU9abURpckU/view?usp=sharing)
+Please find a copy of my resume [here](https://drive.google.com/open?id=0B6ccBhFYyO74cUVpbU9abURpckU)
+Last Updated: 08/22/2016
