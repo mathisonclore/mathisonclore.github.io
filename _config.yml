@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and pursuing a honors certificate in International Business Dipolomacy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mathisonclore.com" # the base hostname & protocol for your site
-twitter_username: mathisonclore
+twitter_username: mathison_clore
 github_username:  mathisonclore
 
 # Build settings
