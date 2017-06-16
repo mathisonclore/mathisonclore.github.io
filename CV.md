@@ -4,6 +4,6 @@ title: Resume
 permalink: /Resume/
 ---
 
-Please find a copy of my resume [here](https://drive.google.com/open?id=0B6ccBhFYyO74cUVpbU9abURpckU)
+Please find a copy of my resume [here](https://drive.google.com/file/d/0B6ccBhFYyO74SG1jR25ZN1FMQWc/view?usp=sharing)
 
-Last Updated: 08/22/2016
+Last Updated: 06/16/2017
