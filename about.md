@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
  
-Mathison Clore recently graduated from Georgetown's School of Foreign Service. He majored in International Political Economy and received an honors certificate in International Business Dipolomacy. He graduated Summa Cum Laude, a member of Phi Beta Kappa and Alpha Sigma Nu, and received the Krogh Medal and Christopher C. Joyner Memorial Prize. He is currently an Associate Consultant at Bain & Company in the Washington, DC office.
+Mathison Clore recently graduated from Georgetown's School of Foreign Service. He majored in International Political Economy and received an honors certificate in International Business Diplomacy. He graduated Summa Cum Laude, a member of Phi Beta Kappa and Alpha Sigma Nu, and received the Krogh Medal and Christopher C. Joyner Memorial Prize. He is currently an Associate Consultant at Bain & Company in the Washington, DC office.
 
 Mathison has a variety of experience in professional settings both on- and off-campus, with experience within the public and private sectors. Most recently, Mathison worked as a summer analyst for Cornerstone Research, an enonomic consulting firm specializing in securities litigation and regulatory matters. There, he worked on a variety of securities fraud cases, namely matters involving initial public offerings (IPOs) and LIBOR manipulation.
 
